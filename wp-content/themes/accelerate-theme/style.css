@@ -453,7 +453,7 @@ a, a:link, a:hover {
 }
 
 .accent {
-	background:#333333;	
+	background:#333333;
 }
 
 body {
@@ -754,7 +754,7 @@ aside.sidebar {
 	text-decoration: none;
 }
 .post-entry .read-more span {
-	color: #45ac9d; 
+	color: #45ac9d;
 }
 .post-entry .read-more:hover {
 	border-bottom: 1px solid #45ac9d;
@@ -1057,7 +1057,7 @@ input::-webkit-input-placeholder {
 	margin-top: 80px;
 }
 .projects-list .content {
-	margin-right: 580px; 
+	margin-right: 580px;
 }
 .projects-list .title {
 	font-size: 1.47em;
@@ -1129,7 +1129,7 @@ input::-webkit-input-placeholder {
 .contacts-form-wrap form .submit {
 	margin-top: 40px;
 }
-input.warning, 
+input.warning,
 textarea.warning,
 .warning input,
 .warning textarea {
@@ -1158,12 +1158,7 @@ section .navigation {
 }
 
 /* Homepage Styles */
-.home-page {
-    background: url("img/hero-image.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
-    height: 440px;
-    margin: 0 0 80px;
-    padding: 100px 0;
-}
+
 
 .homepage-hero {
 	text-align:center;
@@ -1171,7 +1166,7 @@ section .navigation {
 
 .homepage-hero h1 {
 	color:white;
-	font-weight:bold;	
+	font-weight:bold;
 }
 
 .homepage-hero h3 {
