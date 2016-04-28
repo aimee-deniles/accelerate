@@ -27,7 +27,18 @@
     background: none repeat scroll 0 0 #45ac9d;
   }
 
+#masthead nav ul li {
+    float:left;
+    margin:-20px 50px 0 0;
+
+}
+
+}
+
 /* button color change */
+div.homepage-hero{
+    color:#45ac9d;
+}
 
 .button {
       background: none repeat scroll 0 0 #45ac9d;
@@ -59,4 +70,58 @@
 	    font-weight: bold;
 	    color: #45ac9d;
 	    text-transform: uppercase;
+}
+/* Case Studies */
+article.case-study {
+    margin: 40px 0 0 0;
+}
+aside.case-study-sidebar {
+    float:left;
+    width:300px;
+    margin: 0 40px 0 0;
+
+}
+
+div.case-study-images {
+    float:left;
+    width:600px;
+
+
+}
+
+div.case-study-images img {
+  margin-bottom:50px;
+  border:1px solid:#dddddd;
+  height:
+
+
+}
+div.site-content-featured-work{
+  text-align:center;
+
+
+}
+
+ul.homepage-featured-work {
+  list-style:none;
+
+
+}
+
+li.individual-featured-work{
+  display:inline-block;
+  margin:10px;
+  text-align:center;
+
+
+}
+a.read-more-link h4{
+  color:#45ac9d
+}
+
+/* case study archive */
+
+figure.case-study-sidebar-services p{
+    color:gray;
+
 }
